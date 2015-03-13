@@ -1,0 +1,29 @@
+/*
+Theme Name: Angular Experiments (1)
+Version: 1.0.0
+Theme URI: https://github.com/devinsays/angular-experiments/ae-1
+Author: Devin Price
+Author URI: https://wptheming.com
+Description: Really basic example showing how to display recent posts.
+*/
+
+body {
+	background: #fafafa;
+	font-family: sans-serif;
+}
+.col-width {
+	max-width: 680px;
+	padding: 0 1.5em;
+	margin: 3em auto;
+}
+header {
+	display:block;
+	margin-bottom: 3em;
+	text-align: center;
+}
+article {
+	display:block;
+	background: #fff;
+	padding: 1.5em;
+	margin-bottom: 1.5em;
+}
